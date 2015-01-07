@@ -799,7 +799,7 @@ module.exports = function (grunt) {
         'injector',
         'wiredep',
         'autoprefixer'// not use nodemon in server ,
-        //'concurrent:debug'
+        'concurrent:debug'
       ]);
     }
 
@@ -813,8 +813,8 @@ module.exports = function (grunt) {
       'injector',
       'wiredep',
       'autoprefixer',
-      'connect:livereload',
-      //'express:dev',
+      //'connect:livereload',
+      'express:dev',
       'wait',
       'open',
       'watch'
@@ -861,8 +861,8 @@ module.exports = function (grunt) {
         'injector',
         'wiredep',
         'autoprefixer',
-        'connect:livereload',
-        //'express:dev',
+        //'connect:livereload',
+        'express:dev',
         'protractor'
       ]);
     }
