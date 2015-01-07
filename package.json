@@ -1,7 +1,7 @@
 {
   "name": "generator-jdi",
-  "version": "2.0.13",
-  "description": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node",
+  "version": "0.0.1",
+  "description": "JohnPapa AngularJS Style Guide + Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node with generator-angular-fullstack v2.0.13",
   "keywords": [
     "yeoman-generator",
     "mean",
@@ -16,8 +16,9 @@
     "app"
   ],
   "homepage": "https://github.com/mobiconsoft/generator-jdi",
-  "bugs": "https://github.com/DaftMonk/generator-jdi/issues",
+  "bugs": "https://github.com/mobiconsoft/generator-jdi/issues",
   "author": "Tyler Henkel",
+  "modifier": "Peter Yun",
   "repository": {
     "type": "git",
     "url": "git://github.com/mobiconsoft/generator-jdi.git"
